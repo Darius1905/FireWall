@@ -1,0 +1,14 @@
+joblib
+pandas
+numpy
+scikit-learn
+pyshark
+tkinter
+os
+collections
+scapy
+platform
+subprocess
+asyncio
+win32evtlog
+pathlib
