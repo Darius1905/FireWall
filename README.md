@@ -1,18 +1,18 @@
 # 🛡️ SIEM Sec Guardian
 
 **SIEM Sec Guardian** 
--là một hệ thống giám sát
--phát hiện xâm nhập kết hợp học máy
--phân tích PCAP
--cập nhật tường lửa tự động
--Hệ thống hỗ trợ đa nền tảng: Linux, Windows, macOS.
+- là một hệ thống giám sát
+- phát hiện xâm nhập kết hợp học máy
+- phân tích PCAP
+- cập nhật tường lửa tự động
+- Hệ thống hỗ trợ đa nền tảng: Linux, Windows, macOS.
 
 ---
 
 ## 📁 Cấu trúc thư mục
-📁 siem-sec-guardian/
-├── ai_engine/
-│   ├── feature_engineering.py
+📁 siem-sec-guardian/ 
+ ├── ai_engine/
+ │   ├── feature_engineering.py
 │   ├── model_trainer.py
 │   ├── model_predictor.py
 │   └── model/
