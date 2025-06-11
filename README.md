@@ -10,34 +10,29 @@
 ---
 
 ## 📁 Cấu trúc thư mục
-siem-sec-guardian/
-│
+📁 siem-sec-guardian/
 ├── ai_engine/
-│ ├── feature_engineering.py
-│ ├── model_trainer.py
-│ ├── model_predictor.py
-│ └── model/
-│ ├── network_model.joblib
-│ └── scaler.joblib
-│
+│   ├── feature_engineering.py
+│   ├── model_trainer.py
+│   ├── model_predictor.py
+│   └── model/
+│       ├── network_model.joblib
+│       └── scaler.joblib
 ├── pcap_analyzer/
-│ ├── flow_extractor.py
-│ ├── anomaly_detector.py
-│ └── payload_scanner.py
-│
+│   ├── flow_extractor.py
+│   ├── anomaly_detector.py
+│   └── payload_scanner.py
 ├── fw_updater/
-│ ├── rule_generator.py
-│ └── fw_interface.py
-│
+│   ├── rule_generator.py
+│   └── fw_interface.py
 ├── logger/
-│ └── log_manager.py
-│
+│   └── log_manager.py
 ├── config/
-│ └── settings.py
-│
+│   └── settings.py
 ├── main.py
 ├── requirements.txt
 └── README.md
+
 
 #yêu cầu
 
